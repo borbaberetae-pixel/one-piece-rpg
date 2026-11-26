@@ -1,1 +1,15 @@
-{"name":"One Piece RPG - Fichas","version":"1.0.0","manifest_version":1,"description":"Fichas compartilhadas de RPG","author":"One Piece RPG","icon":"icon.svg","action":{"title":"Fichas RPG","icon":"icon.svg","popover":"index.html","height":650,"width":420}}
+{
+  "name": "One Piece RPG - Fichas",
+  "version": "1.0.1",
+  "manifest_version": 1,
+  "description": "Fichas compartilhadas de RPG",
+  "author": "One Piece RPG",
+  "icon": "https://borbaberetae-pixel.github.io/one-piece-rpg/icon.svg",
+  "action": {
+    "title": "Fichas RPG",
+    "icon": "https://borbaberetae-pixel.github.io/one-piece-rpg/icon.svg",
+    "popover": "https://borbaberetae-pixel.github.io/one-piece-rpg/index.html",
+    "height": 650,
+    "width": 420
+  }
+}
